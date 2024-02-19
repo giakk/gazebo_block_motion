@@ -1,0 +1,19 @@
+box_fl:
+  pos_x: 0.32
+  pos_y: 0.35
+  dim: 0.25
+
+box_fr:
+  pos_x: 0.32
+  pos_y: -0.35
+  dim: 0.25
+
+box_rl:
+  pos_x: -0.32
+  pos_y: 0.35
+  dim: 0.25
+
+box_rr:
+  pos_x: -0.32
+  pos_y: -0.35
+  dim: 0.25
